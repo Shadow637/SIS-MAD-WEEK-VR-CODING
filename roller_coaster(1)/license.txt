@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roller Coaster
+* source:	https://sketchfab.com/3d-models/roller-coaster-06a750a284104d76ba6a05c2b0f5ccf3
+* author:	FrankiArt (https://sketchfab.com/FrankiArt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roller Coaster" (https://sketchfab.com/3d-models/roller-coaster-06a750a284104d76ba6a05c2b0f5ccf3) by FrankiArt (https://sketchfab.com/FrankiArt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
