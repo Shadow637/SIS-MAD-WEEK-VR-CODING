@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti T57 C Demi Coupe
+* source:	https://sketchfab.com/3d-models/bugatti-t57-c-demi-coupe-ef30ead8ccbb4f3f9a7f64aeba2ecbed
+* author:	Carrozze DÄULARI (https://sketchfab.com/alhertenberger)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti T57 C Demi Coupe" (https://sketchfab.com/3d-models/bugatti-t57-c-demi-coupe-ef30ead8ccbb4f3f9a7f64aeba2ecbed) by Carrozze DÄULARI (https://sketchfab.com/alhertenberger) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
